@@ -5,9 +5,7 @@
 Welcome to my GitHub profile! I build cloud-secure infrastructure, automate systems, and solve real-world IT problems.
 
 ## 🚀 Projects
-- [Account Inactivity Monitor](https://github.com/jaquanwatson/account-inactivity-monitor) — Automates inactive AD/M365 user cleanups
-- [M365 License Tracker](https://github.com/jaquanwatson/m365-license-tracker) — Monitor and optimize Microsoft 365 license usage
-- [Password Reminder Bot](https://github.com/jaquanwatson/password-reminder-bot) — Sends automated password expiration alerts
+
 
 ## 🛠️ Tech I Work With
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
