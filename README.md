@@ -66,7 +66,7 @@ always_learning:
 </details>
 
 <details>
-<summary><b>🔧 Infrastructure & DevOps</b></summary>
+<summary><b>Infrastructure & DevOps</b></summary>
 <br/>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -121,8 +121,8 @@ always_learning:
 
 | Technology | Proficiency | Years of Experience |
 |------------|-------------|-------------------|
-| Azure | ![80%](https://progress-bar.dev/80) | 4+ years |
-| PowerShell | ![95%](https://progress-bar.dev/95) | 6+ years |
+| Azure | ![75%](https://progress-bar.dev/80) | 4+ years |
+| PowerShell | ![65%](https://progress-bar.dev/95) | 2+ years |
 | Python | ![85%](https://progress-bar.dev/85) | 3+ years |
 | Active Directory | ![90%](https://progress-bar.dev/90) | 5+ years |
 | Splunk | ![70%](https://progress-bar.dev/70) | 2+ years |
@@ -155,7 +155,7 @@ current_projects = {
 ## Home Lab Environment
 
 <details>
-<summary><b>🔬 My Testing & Learning Environment</b></summary>
+<summary><b>My Testing & Learning Environment</b></summary>
 <br/>
 
 ```yaml
@@ -197,7 +197,7 @@ homelab_setup:
 - Advanced PowerShell Scripting - Pluralsight
 - Kubernetes Security - Linux Academy
 
-## 🌟 Recent Activity
+## Recent Activity
 
 <!--START_SECTION:activity-->
 - Enhanced security features in Account Inactivity Monitor
@@ -231,7 +231,7 @@ homelab_setup:
 - **IT Pro Conference** - "PowerShell for Security Professionals"
 - **Local Tech Meetup** - "Career Transition into Cybersecurity"
 
-## 🛡️ Security-First Mindset
+## Security-First Mindset
 
 <details>
 <summary><b>My Security Principles</b></summary>
@@ -268,7 +268,7 @@ security_principles:
 
 | Q1 | Q2 | Q3 | Q4 |
 |----|----|----|----| 
-| **CISSP Certification**<br/>Advanced security management | 📅 **Kubernetes Security**<br/>Container orchestration security | 📅 **AWS Security Specialty**<br/>Cloud security architecture | 📅 **AI/ML for SecOps**<br/>Intelligent automation |
+| **CISSP Certification**<br/>Advanced security management |  **Kubernetes Security**<br/>Container orchestration security |  **AWS Security Specialty**<br/>Cloud security architecture |  **AI/ML for SecOps**<br/>Intelligent automation |
 
 ## Skill Development Roadmap
 
@@ -317,12 +317,8 @@ learning_path = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaquanwatson&repo=m365-license-tracker&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/jaquanwatson/password-reminder-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaquanwatson&repo=password-reminder-bot&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/jaquanwatson/azure-security-toolkit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaquanwatson&repo=azure-security-toolkit&theme=tokyonight" />
+<a href="https://github.com/jaquanwatson/Password-Reminder-Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaquanwatson&repo=Password-Reminder-Bot&theme=tokyonight" />
 </a>
 
 </div>
@@ -358,13 +354,13 @@ learning_path = {
 
 | Goal | Progress | Status |
 |------|----------|--------|
-| Earn CISSP Certification | ![40%](https://progress-bar.dev/40) | 🔄 In Progress |
-| Contribute to 5 Open Source Projects | ![20%](https://progress-bar.dev/20) | 🔄 In Progress |
-| Earn 2 Additional Cloud Security Certifications | ![20%](https://progress-bar.dev/20) | 🔄 In Progress |
-| Mentor 25 IT Professionals | ![40%](https://progress-bar.dev/40) | 🔄 In Progress |
-| Speak at 4 Tech Conferences | ![0%](https://progress-bar.dev/0) | 📅 Planned |
+| Earn CISSP Certification | ![40%](https://progress-bar.dev/40) |  In Progress |
+| Contribute to 5 Open Source Projects | ![20%](https://progress-bar.dev/20) |  In Progress |
+| Earn 2 Additional Cloud Security Certifications | ![20%](https://progress-bar.dev/20) |  In Progress |
+| Mentor 25 IT Professionals | ![40%](https://progress-bar.dev/40) |  In Progress |
+| Speak at 4 Tech Conferences | ![0%](https://progress-bar.dev/0) | Planned |
 
-## 🎮 When I'm Not Coding
+##  When I'm Not Coding
 
 |   Hobbies |   Interests |   Personal Growth |
 |------------|--------------|-------------------|
@@ -397,10 +393,10 @@ JSON         1 hr 5 mins     █░░░░░░░░░░░░░░░░
 
 ### Detailed Contact & Availability
 
-| 🕐 Availability | 📧 Contact Preferences |
+| Availability | Contact Preferences |
 |-----------------|----------------------|
-| **Time Zone**: EST (UTC-5) | **Quick Questions**: LinkedIn DM (Same day) |
-| **Best Contact Hours**: 9 AM - 6 PM EST | **Project Inquiries**: Email (24-48 hours) |
+| **Time Zone**: MST (UTC-7) | **Quick Questions**: LinkedIn DM (Same day) |
+| **Best Contact Hours**: 9 AM - 6 PM MST | **Project Inquiries**: Email (24-48 hours) |
 | **Response Time**: Within 24 hours | **Collaboration**: Calendly (Schedule directly) |
 | | **Urgent Issues**: Email + LinkedIn (Within 4 hours) |
 
@@ -442,7 +438,4 @@ I'm always interested in:
 - Speaking engagements
 
 **Let's build something amazing together!**
-
-![Snake animation](https://github.com/jaquanwatson/jaquanwatson/blob/output/github-contribution-grid-snake.svg)
-
 </div>
