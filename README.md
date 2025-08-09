@@ -6,7 +6,7 @@
 
 </div>
 
-## About Me
+## 👨‍💻 About Me
 
 I'm a passionate **Cloud & Systems Engineer** with a focus on **cybersecurity** and **automation**. I specialize in building secure, scalable infrastructure and creating intelligent automation solutions that solve real-world IT challenges.
 
@@ -25,78 +25,81 @@ always_learning:
   - AI/ML for IT Operations
 ```
 
-## Featured Projects
+## 🏆 Professional Expertise
+
+<table>
+  <tr>
+    <td><b>Cloud & Infrastructure</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft 365" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Security & Compliance</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory" />
+      <img src="https://img.shields.io/badge/Azure_Sentinel-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Sentinel" />
+      <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Automation & DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Infrastructure & Containers</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+    </td>
+  </tr>
+</table>
+
+## 🚀 Featured Projects
 
 <div align="center">
 
 |    Security & Compliance |   Monitoring & Analytics |   Automation Tools |
 |---------------------------|---------------------------|---------------------|
-| **Account Inactivity Monitor**<br/>Automated AD & M365 account cleanup<br/>`Python` `Azure` | **M365 License Tracker**<br/>Real-time license optimization dashboard<br/>`Flask` `Chart.js` | **Password Reminder Bot**<br/>Multi-channel password expiration alerts<br/>`LDAP` `Teams` |
+| **[Account Inactivity Monitor](https://github.com/jaquanwatson/account-inactivity-monitor)**<br/>Automated AD & M365 account cleanup<br/>`Python` `Azure` | **[M365 License Tracker](https://github.com/jaquanwatson/m365-license-tracker)**<br/>Real-time license optimization dashboard<br/>`Flask` `Chart.js` | **[Password Reminder Bot](https://github.com/jaquanwatson/Password-Reminder-Bot)**<br/>Multi-channel password expiration alerts<br/>`LDAP` `Teams` |
 
 </div>
 
-## Project Highlights
+## 📊 Project Showcase
+
+<div align="center">
+
+<a href="https://github.com/jaquanwatson/account-inactivity-monitor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaquanwatson&repo=account-inactivity-monitor&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/jaquanwatson/m365-license-tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaquanwatson&repo=m365-license-tracker&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/jaquanwatson/Password-Reminder-Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaquanwatson&repo=Password-Reminder-Bot&theme=tokyonight" />
+</a>
+
+</div>
+
+## 🛡️ Project Highlights
 
 - **Security-First Approach**: All projects implement security best practices and compliance standards
 - **Real Impact**: Solutions actively used in production environments, saving time and reducing costs
 - **Intelligent Automation**: Smart workflows that adapt to organizational needs
 - **Data-Driven Insights**: Comprehensive reporting and analytics for informed decision-making
 
-## Technology Stack
-
-<details>
-<summary><b>Cloud Platforms</b></summary>
-<br/>
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>Programming & Scripting</b></summary>
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</details>
-
-<details>
-<summary><b>Infrastructure & DevOps</b></summary>
-<br/>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>Operating Systems</b></summary>
-<br/>
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>Security & Monitoring</b></summary>
-<br/>
-
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Azure Sentinel](https://img.shields.io/badge/Azure_Sentinel-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-
-</details>
-
-## Certifications & Achievements
+## 🎓 Certifications & Achievements
 
 <div align="center">
 
@@ -117,20 +120,73 @@ always_learning:
 
 </div>
 
-## Skills Matrix
+## 📈 Skills & Experience
 
-| Technology | Proficiency | Years of Experience |
-|------------|-------------|-------------------|
-| Azure | ![75%](https://progress-bar.dev/80) | 4+ years |
-| PowerShell | ![65%](https://progress-bar.dev/95) | 2+ years |
-| Python | ![85%](https://progress-bar.dev/85) | 3+ years |
-| Active Directory | ![90%](https://progress-bar.dev/90) | 5+ years |
-| Splunk | ![70%](https://progress-bar.dev/70) | 2+ years |
-| AWS | ![60%](https://progress-bar.dev/60) | 2+ years |
-| Docker/Kubernetes | ![70%](https://progress-bar.dev/70) | 3+ years |
-| Terraform | ![65%](https://progress-bar.dev/65) | 2+ years |
+<table>
+  <tr>
+    <th>Technology</th>
+    <th>Experience Level</th>
+    <th>Years</th>
+  </tr>
+  <tr>
+    <td>Azure</td>
+    <td>
+      <img src="https://img.shields.io/badge/Advanced-80%25-0078D4" alt="Azure - 80%" />
+    </td>
+    <td>4+ years</td>
+  </tr>
+  <tr>
+    <td>PowerShell</td>
+    <td>
+      <img src="https://img.shields.io/badge/Expert-95%25-5391FE" alt="PowerShell - 95%" />
+    </td>
+    <td>2+ years</td>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>
+      <img src="https://img.shields.io/badge/Advanced-85%25-3776AB" alt="Python - 85%" />
+    </td>
+    <td>3+ years</td>
+  </tr>
+  <tr>
+    <td>Active Directory</td>
+    <td>
+      <img src="https://img.shields.io/badge/Expert-90%25-0078D4" alt="Active Directory - 90%" />
+    </td>
+    <td>5+ years</td>
+  </tr>
+  <tr>
+    <td>Splunk</td>
+    <td>
+      <img src="https://img.shields.io/badge/Proficient-70%25-000000" alt="Splunk - 70%" />
+    </td>
+    <td>2+ years</td>
+  </tr>
+  <tr>
+    <td>AWS</td>
+    <td>
+      <img src="https://img.shields.io/badge/Intermediate-60%25-232F3E" alt="AWS - 60%" />
+    </td>
+    <td>2+ years</td>
+  </tr>
+  <tr>
+    <td>Docker/Kubernetes</td>
+    <td>
+      <img src="https://img.shields.io/badge/Proficient-70%25-2496ED" alt="Docker/Kubernetes - 70%" />
+    </td>
+    <td>3+ years</td>
+  </tr>
+  <tr>
+    <td>Terraform</td>
+    <td>
+      <img src="https://img.shields.io/badge/Proficient-65%25-7B42BC" alt="Terraform - 65%" />
+    </td>
+    <td>2+ years</td>
+  </tr>
+</table>
 
-## What I'm Working On
+## 🔍 What I'm Working On
 
 ```python
 current_projects = {
@@ -152,7 +208,7 @@ current_projects = {
 }
 ```
 
-## Home Lab Environment
+## 🧪 Home Lab Environment
 
 <details>
 <summary><b>My Testing & Learning Environment</b></summary>
@@ -183,7 +239,7 @@ homelab_setup:
 
 </details>
 
-## Current Reading & Learning
+## 📚 Current Reading & Learning
 
 ### Books I'm Currently Reading
 - "CISSP Official Study Guide" by Mike Chapple
@@ -197,7 +253,7 @@ homelab_setup:
 - Advanced PowerShell Scripting - Pluralsight
 - Kubernetes Security - Linux Academy
 
-## Recent Activity
+## 🔄 Recent Activity
 
 <!--START_SECTION:activity-->
 - Enhanced security features in Account Inactivity Monitor
@@ -207,7 +263,7 @@ homelab_setup:
 - Studying for CISSP certification
 <!--END_SECTION:activity-->
 
-## Open Source Contributions
+## 🤝 Open Source Contributions
 
 ### Notable Contributions
 - **PowerShell-Security-Tools** - Added advanced AD security auditing scripts
@@ -224,14 +280,7 @@ homelab_setup:
 |   Security Incidents Prevented | 150+ | Through proactive monitoring |
 |   IT Professionals Mentored | 50+ | Career guidance and technical mentoring |
 
-## Knowledge Sharing
-
-### Speaking Engagements
-- **CloudSec Summit 2024** - "Automated Security Compliance in the Cloud"
-- **IT Pro Conference** - "PowerShell for Security Professionals"
-- **Local Tech Meetup** - "Career Transition into Cybersecurity"
-
-## Security-First Mindset
+## 🔒 Security-First Mindset
 
 <details>
 <summary><b>My Security Principles</b></summary>
@@ -262,68 +311,31 @@ security_principles:
 
 </details>
 
-## Current Learning Journey
+## 📝 2025 Goals & Achievements
 
-### 2026 Learning Goals
+### Progress Tracker
 
-| Q1 | Q2 | Q3 | Q4 |
-|----|----|----|----| 
-| **CISSP Certification**<br/>Advanced security management |  **Kubernetes Security**<br/>Container orchestration security |  **AWS Security Specialty**<br/>Cloud security architecture |  **AI/ML for SecOps**<br/>Intelligent automation |
+| Goal | Progress | Status |
+|------|----------|--------|
+| Earn CISSP Certification | ![40%](https://img.shields.io/badge/Progress-40%25-yellow) |  In Progress |
+| Contribute to 5 Open Source Projects | ![20%](https://img.shields.io/badge/Progress-20%25-red) |  In Progress |
+| Earn 2 Additional Cloud Security Certifications | ![20%](https://img.shields.io/badge/Progress-20%25-red) |  In Progress |
+| Mentor 25 IT Professionals | ![40%](https://img.shields.io/badge/Progress-40%25-yellow) |  In Progress |
+| Speak at 4 Tech Conferences | ![0%](https://img.shields.io/badge/Progress-0%25-red) | Planned |
 
-## Skill Development Roadmap
+## 💻 Weekly Development Breakdown
 
-```python
-learning_path = {
-    "2025_goals": {
-        "certifications": [
-            "CISSP (Certified Information Systems Security Professional)",
-            "AWS Certified Security - Specialty",
-            "Certified Kubernetes Security Specialist (CKS)"
-        ],
-        "technologies": [
-            "Terraform Advanced Patterns",
-            "GitOps with ArgoCD",
-            "Service Mesh Security (Istio)",
-            "SIEM/SOAR Integration"
-        ],
-        "soft_skills": [
-            "Technical Leadership",
-            "Architecture Design",
-            "Risk Assessment",
-            "Team Mentoring"
-        ]
-    }
-}
+<!--START_SECTION:waka-->
+```text
+Python       12 hrs 30 mins  ████████████░░░░░░░░░░░░░   45.2%
+PowerShell   8 hrs 15 mins   ███████░░░░░░░░░░░░░░░░░░   29.8%
+YAML         3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.6%
+Markdown     2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░    7.8%
+JSON         1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░    3.6%
 ```
+<!--END_SECTION:waka-->
 
-## Community Involvement
-
-| Community | Role | Contribution |
-|-----------|------|--------------|
-| r/sysadmin | Active Contributor | Automation scripts & troubleshooting |
-| PowerShell Community | Module Contributor | Security-focused PowerShell modules |
-| Local ISACA Chapter | Volunteer Speaker | Cybersecurity awareness sessions |
-| GitHub Security Lab | Researcher | Vulnerability research & reporting |
-
-## Project Showcase
-
-<div align="center">
-
-<a href="https://github.com/jaquanwatson/account-inactivity-monitor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaquanwatson&repo=account-inactivity-monitor&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/jaquanwatson/m365-license-tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaquanwatson&repo=m365-license-tracker&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/jaquanwatson/Password-Reminder-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaquanwatson&repo=Password-Reminder-Bot&theme=tokyonight" />
-</a>
-
-</div>
-
-## Professional Services
+## 🌟 Professional Services
 
 <details>
 <summary><b>How I Can Help Your Organization</b></summary>
@@ -348,19 +360,7 @@ learning_path = {
 
 </details>
 
-## 2025 Goals & Achievements
-
-### Progress Tracker
-
-| Goal | Progress | Status |
-|------|----------|--------|
-| Earn CISSP Certification | ![40%](https://progress-bar.dev/40) |  In Progress |
-| Contribute to 5 Open Source Projects | ![20%](https://progress-bar.dev/20) |  In Progress |
-| Earn 2 Additional Cloud Security Certifications | ![20%](https://progress-bar.dev/20) |  In Progress |
-| Mentor 25 IT Professionals | ![40%](https://progress-bar.dev/40) |  In Progress |
-| Speak at 4 Tech Conferences | ![0%](https://progress-bar.dev/0) | Planned |
-
-##  When I'm Not Coding
+## 🎮 When I'm Not Coding
 
 |   Hobbies |   Interests |   Personal Growth |
 |------------|--------------|-------------------|
@@ -369,19 +369,7 @@ learning_path = {
 | Hiking & Running | Emerging Technologies | Community Volunteering |
 | Home Lab Projects | Technical Writing | Continuous Learning |
 
-## Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-Python       12 hrs 30 mins  ████████████░░░░░░░░░░░░░   45.2%
-PowerShell   8 hrs 15 mins   ███████░░░░░░░░░░░░░░░░░░   29.8%
-YAML         3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.6%
-Markdown     2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░    7.8%
-JSON         1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░    3.6%
-```
-<!--END_SECTION:waka-->
-
-## Let's Connect!
+## 📫 Let's Connect!
 
 <div align="center">
 
@@ -400,23 +388,6 @@ JSON         1 hr 5 mins     █░░░░░░░░░░░░░░░░
 | **Response Time**: Within 24 hours | **Collaboration**: Calendly (Schedule directly) |
 | | **Urgent Issues**: Email + LinkedIn (Within 4 hours) |
 
-## Fun Facts About Me
-
-<details>
-<summary><b>Fun Facts About Me</b></summary>
-<br/>
-
-- I debug infrastructure issues like solving puzzles
-- Coffee-driven development is my specialty  
-- When not coding, I'm probably gaming or exploring new tech
-- Always reading about the latest in cybersecurity and cloud tech
-- Passionate about mentoring others in IT and cybersecurity
-- Believe in work-life balance - running helps me think through complex problems
-- My home lab is my playground for testing new security tools
-- I believe the best defense is a good automated offense
-
-</details>
-
 ---
 
 <div align="center">
@@ -426,9 +397,7 @@ JSON         1 hr 5 mins     █░░░░░░░░░░░░░░░░
 ![Profile Views](https://komarev.com/ghpvc/?username=jaquanwatson&color=brightgreen)
 ![GitHub followers](https://img.shields.io/github/followers/jaquanwatson?style=social)
 
-**Fun fact**: I've automated myself out of so many manual tasks that I now have time to help others do the same!
-
-### Ready to Collaborate?
+**Ready to Collaborate?**
 
 I'm always interested in:
 - Security automation projects
