@@ -6,7 +6,7 @@
 
 </div>
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a passionate **Cloud & Systems Engineer** with a focus on **cybersecurity** and **automation**. I specialize in building secure, scalable infrastructure and creating intelligent automation solutions that solve real-world IT challenges.
 
@@ -25,7 +25,7 @@ always_learning:
   - AI/ML for IT Operations
 ```
 
-## 🏆 Professional Expertise
+## Professional Expertise
 
 <table>
   <tr>
@@ -64,7 +64,7 @@ always_learning:
   </tr>
 </table>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -74,7 +74,7 @@ always_learning:
 
 </div>
 
-## 📊 Project Showcase
+## Project Showcase
 
 <div align="center">
 
@@ -99,7 +99,7 @@ always_learning:
 - **Intelligent Automation**: Smart workflows that adapt to organizational needs
 - **Data-Driven Insights**: Comprehensive reporting and analytics for informed decision-making
 
-## 🎓 Certifications & Achievements
+## Certifications & Achievements
 
 <div align="center">
 
@@ -107,8 +107,8 @@ always_learning:
 
 | Cloud & Infrastructure | Security | Automation |
 |------------------------|----------|------------|
-|   **Azure Fundamentals**<br/>Microsoft Certified |   **Security+**<br/>CompTIA Certified | 🤖 **PowerShell Expert**<br/>Advanced Scripting |
-|   **Azure Administrator**<br/>Associate Level | 🛡️ **AZ-500: Azure Security Engineer**<br/>Microsoft Certified | 📊 **Python Developer**<br/>Automation Specialist |
+|   **Azure Fundamentals**<br/>Microsoft Certified |   **Security+**<br/>CompTIA Certified | **PowerShell Expert**<br/>Advanced Scripting |
+|   **Azure Administrator**<br/>Associate Level | **AZ-500: Azure Security Engineer**<br/>Microsoft Certified | **Python Developer**<br/>Automation Specialist |
 | |   **Splunk Cybersecurity Defense Analyst**<br/>Splunk Certified | |
 
 ### In Progress
@@ -120,7 +120,7 @@ always_learning:
 
 </div>
 
-## 📈 Skills & Experience
+## Skills & Experience
 
 <table>
   <tr>
@@ -186,7 +186,7 @@ always_learning:
   </tr>
 </table>
 
-## 🔍 What I'm Working On
+## What I'm Working On
 
 ```python
 current_projects = {
@@ -208,7 +208,7 @@ current_projects = {
 }
 ```
 
-## 🧪 Home Lab Environment
+## Home Lab Environment
 
 <details>
 <summary><b>My Testing & Learning Environment</b></summary>
@@ -239,7 +239,7 @@ homelab_setup:
 
 </details>
 
-## 📚 Current Reading & Learning
+## Current Reading & Learning
 
 ### Books I'm Currently Reading
 - "CISSP Official Study Guide" by Mike Chapple
@@ -253,7 +253,7 @@ homelab_setup:
 - Advanced PowerShell Scripting - Pluralsight
 - Kubernetes Security - Linux Academy
 
-## 🔄 Recent Activity
+## Recent Activity
 
 <!--START_SECTION:activity-->
 - Enhanced security features in Account Inactivity Monitor
@@ -263,7 +263,7 @@ homelab_setup:
 - Studying for CISSP certification
 <!--END_SECTION:activity-->
 
-## 🤝 Open Source Contributions
+## Open Source Contributions
 
 ### Notable Contributions
 - **PowerShell-Security-Tools** - Added advanced AD security auditing scripts
@@ -280,7 +280,7 @@ homelab_setup:
 |   Security Incidents Prevented | 150+ | Through proactive monitoring |
 |   IT Professionals Mentored | 50+ | Career guidance and technical mentoring |
 
-## 🔒 Security-First Mindset
+## Security-First Mindset
 
 <details>
 <summary><b>My Security Principles</b></summary>
@@ -311,7 +311,7 @@ security_principles:
 
 </details>
 
-## 📝 2025 Goals & Achievements
+## 2025 Goals & Achievements
 
 ### Progress Tracker
 
@@ -335,7 +335,7 @@ JSON         1 hr 5 mins     █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-## 🌟 Professional Services
+## Professional Services
 
 <details>
 <summary><b>How I Can Help Your Organization</b></summary>
@@ -360,7 +360,7 @@ JSON         1 hr 5 mins     █░░░░░░░░░░░░░░░░
 
 </details>
 
-## 🎮 When I'm Not Coding
+## When I'm Not Coding
 
 |   Hobbies |   Interests |   Personal Growth |
 |------------|--------------|-------------------|
@@ -369,7 +369,7 @@ JSON         1 hr 5 mins     █░░░░░░░░░░░░░░░░
 | Hiking & Running | Emerging Technologies | Community Volunteering |
 | Home Lab Projects | Technical Writing | Continuous Learning |
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
