@@ -89,8 +89,8 @@ IT Operations Management · Vendor Management · SLA / KPI Definition · Staff D
 | ITIL v4 Foundation | Axelos | Active |
 | CISSP | ISC2 | Planned — 2027 |
 | CySA+ | CompTIA | Planned — 2027 |
-| CISM | ISACA | Planned — 2027 |
-| CISA | ISACA | Planned — 2027 |
+| CISM | ISACA | Planned — 2028 |
+| CISA | ISACA | Planned — 2028 |
 
 ---
 
