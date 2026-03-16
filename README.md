@@ -1,83 +1,113 @@
-<div align="center">
+# Jaquan Greene-Watson
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=IT+Operations+Manager;DBA+Candidate;Strategic+Automation)
+**Server Systems Administrator · DBA Candidate · Automation Builder**
 
-</div>
-
----
-
-## About Me
-
-I am an **IT Operations Leader** and **incoming DBA Candidate** bridging the gap between technical execution and business strategy. My career has evolved from avionics systems in the USAF to managing corporate IT infrastructure and automating GRC workflows.
-
-I don't just solve IT problems; I build the systems, teams, and automation that prevent them from happening.
-
-**Current Focus:**
-* **DBA Candidate:** Researching GRC Workflow Automation at South College
-* **Compliance:** NIST 800-171 / CMMC
-* **Automation:** Python & PowerShell for Operational Efficiency
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaquanwatson-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/jaquanwatson)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jaquanwatson.github.io-1a6b57?style=flat-square)](https://jaquanwatson.github.io)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--4324--6413-A6CE39?style=flat-square&logo=orcid)](https://orcid.org/0009-0007-4324-6413)
 
 ---
 
-## Featured Initiatives
+## About
 
-| Project Name | Description | Link |
-| :--- | :--- | :--- |
-| **Staff Development Program** | Comprehensive 6-week training curriculum (Virtual Labs + Syllabus) to reduce new-hire time-to-competency by 40%. | [View Repository](https://github.com/jaquanwatson/enterprise-it-training-framework) |
-| **Executive Risk Dashboard** | Business Intelligence tool translating technical metrics (Uptime, SLAs, Vulns) into executive KPIs. | [View Repository](https://github.com/jaquanwatson/executive-risk-dashboard) |
-| **GRC Compliance Automation** | Python-based toolset for automating evidence collection and audit readiness (NIST 800-171). | [View Repository](https://github.com/jaquanwatson/grc-compliance-automation) |
+I started in IT help desk in 2023. Since then: sysadmin, assistant IT management, and now server infrastructure. Along the way, I've been building Python and PowerShell automation tools, deploying compliance workflows in real environments, and finishing a Doctor of Business Administration focused on IT governance strategy.
+
+That combination of hands-on infrastructure work and doctoral-level strategic thinking is what I'm building a career around.
+
+**Current research focus:** Quantifying the ROI of automating GRC and compliance workflows versus maintaining manual operations and publishing a replicable model practitioners can use.
+
+**Next target:** IT Manager / Infrastructure Lead role where I can own a team, a budget, and a technology roadmap.
+
+---
+
+## Featured Projects
+
+### [`grc-compliance-automation`](https://github.com/jaquanwatson/grc-compliance-automation)
+Python-based toolkit for automating NIST 800-171 / CMMC Level 2 evidence collection. Integrates with Microsoft Graph API and endpoint management tools to replace weeks of manual audit preparation with scheduled, verifiable outputs. Reduced audit prep time by approximately 40% in a live environment. This project is the applied foundation for my DBA dissertation research.
+
+`Python` · `Microsoft Graph API` · `NIST 800-171` · `CMMC` · `Compliance Automation`
+
+---
+
+### [`executive-risk-dashboard`](https://github.com/jaquanwatson/executive-risk-dashboard)
+Business intelligence prototype that translates raw IT infrastructure metrics — system uptime, patch compliance, vulnerability exposure, vendor spend — into executive KPIs. Built to demonstrate the business communication layer that sits above technical operations.
+
+`Python` · `Streamlit` · `Pandas` · `Business Intelligence`
+
+---
+
+### [`enterprise-it-training-framework`](https://github.com/jaquanwatson/enterprise-it-training-framework)
+Structured 4–6 week onboarding curriculum for Tier 1/2 IT support roles. Uses virtualized lab environments (VMware) to simulate Active Directory, DNS/DHCP, and security scenarios without touching production. Designed to reduce new-hire time-to-competency by approximately 40% and create consistent, measurable onboarding outcomes.
+
+`Training Design` · `VMware` · `Active Directory` · `Windows Server` · `IT Service Management`
+
+---
+
+### `infra-automation-scripts` *(In Development)*
+A growing collection of PowerShell and Python scripts for real Windows Server and Active Directory administration tasks: bulk user provisioning, group policy auditing, disk health reporting, patch status exports, scheduled cleanup operations. Built from day-to-day sysadmin work — documented for portability.
+
+`PowerShell` · `Python` · `Active Directory` · `Windows Server`
+
+---
+
+### `grc-automation-roi-model` *(Publishing 2027 — DBA Dissertation)*
+Quantitative framework for modeling the dollar value of compliance automation versus manual operations. Will be published as open Python tooling and a reproducible methodology for practitioner use and academic peer review when my dissertation is complete.
+
+`Research` · `Python` · `Data Modeling` · `DBA Dissertation`
 
 ---
 
 ## Core Competencies
 
-### Strategy & Leadership
-* IT Operations Management
-* Vendor Negotiation & Budget Planning
-* SLA & KPI Definition
-* Staff Mentorship & Training
+**Systems Administration**  
+Windows Server 2019/2022 · Active Directory (GPO/DNS/DHCP) · Entra ID (Azure AD) · Intune MDM · Hyper-V · Identity & Access Management · System Hardening · Disaster Recovery Planning
 
-### Automation & Development
-* Python (Business Process Automation)
-* PowerShell (Infrastructure Admin)
-* Executive Dashboards
-* API Integration
+**Automation & Scripting**  
+Python · PowerShell · Microsoft Graph API · Process Automation · Streamlit / Pandas Dashboards · AI/LLM Tools · Reporting Pipelines
 
-### Security & Infrastructure
-* Azure/AWS Hybrid Cloud Architecture
-* NIST 800-171 / CMMC Compliance
-* Active Directory / Group Policy
-* Disaster Recovery (DR) Planning
+**Operations & GRC**  
+IT Operations Management · Vendor Management · SLA / KPI Definition · Staff Development · NIST 800-171 · CMMC Exposure · SOC 2 / ISO 27001 Familiarity · Risk Reporting · Budget Planning
 
 ---
 
-## Home Lab & Research Strategy
+## Education
 
-*My home lab is a simulation environment for enterprise strategy, utilizing VMware vSphere to host a complete Windows Server 2022 domain, Security Onion SIEM, and simulated user endpoints.*
+| Degree | Institution | Status |
+|---|---|---|
+| **Doctor of Business Administration** | South College | In Progress — Est. 2027 |
+| M.S. IT Administration & Management | Western Governors University | Complete |
+| B.S. IT Management | Western Governors University | Complete |
+| B.S. Business Administration | Lewis University | Complete |
 
-**Research Goal:** Measuring the ROI of automated ticket resolution vs. manual support.
+## Certifications
+
+| Certification | Issuer | Status |
+|---|---|---|
+| Certified in Cybersecurity (CC) | ISC2 | Active |
+| CompTIA Security+ | CompTIA | Active |
+| CompTIA Network+ | CompTIA | Active |
+| ITIL v4 Foundation | Axelos | Active |
+| CISSP | ISC2 | Planned — 2027 |
+| CySA+ | CompTIA | Planned — 2027 |
+| CISM | ISACA | Planned — 2027 |
+| CISA | ISACA | Planned — 2027 |
 
 ---
 
-## Education & Certifications
+## Career Roadmap
 
-| Degree / Certification | Institution / Issuer | Status |
-| :--- | :--- | :--- |
-| **Doctor of Business Administration (DBA)** | South College | *In Progress* |
-| **Certified Information Systems Security Professional (CISSP)** | ISC2 | *In Progress* |
-| **Certified in Cybersecurity (CC)** | ISC2 | Active |
-| **Security+** | CompTIA | Active |
-| **Network+** | CompTIA | Active |
-| **Master of Science (MSITM)** | Western Governors University | Complete |
-| **Bachelor's of Science (BSITM)** | Western Governors University | Complete |
-| **Bachelor's of Science (Business Administration)+** | Lewis University | Complete |
+```
+2023       Help Desk → Sysadmin → Assistant IT Manager (Perikin) → Server Sysadmin (now)
+2027       DBA Complete · GRC automation ROI model published
+2027       IT Manager / Infrastructure Lead · CISSP · CISM · CISA
+2028-2029  Director of IT / Technology
+2030+      VP Technology / CIO / CTO
+```
 
 ---
 
-<div align="center">
+## Let's Connect
 
-**Connect With Me**
+Open to IT management roles, infrastructure lead positions, consulting engagements in IT operations or GRC readiness, and academic collaboration on governance automation research.
 
-[LinkedIn](https://linkedin.com/in/jaquanwatson) | [Email Me](mailto:jqwatson96@gmail.com)
-
-</div>
+**→ [jaquanwatson.github.io](https://jaquanwatson.github.io)** · **[LinkedIn](https://linkedin.com/in/jaquanwatson)** · **[jqwatson96@gmail.com](mailto:jqwatson96@gmail.com)**
